@@ -1,0 +1,172 @@
+
+
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.container {
+    width: 80%;
+    margin: 0, auto;
+
+}
+
+
+li.nav-item{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.col-lg-6{
+   margin-top: 28%;
+  
+}
+
+.home-titulo{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    
+}
+
+.col-lg-3{
+    margin-top: 20%;
+}
+
+.col2{
+    padding-left: 33px;
+}
+
+
+.bot2{
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.bot1{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 40px 20px 40px;
+    color:#F08F49 ;
+}
+
+.bot1:hover {
+color: white;
+background-color:#F08F49;    
+
+}
+.texto_laranja{
+   color: #F08F49; 
+}
+
+.texto1{
+    margin-top: 250px;
+    margin-left: 10%; 
+    margin-right: 10%;
+   
+}
+
+.h4bold{
+    font-weight: bold;
+}
+
+.p1{
+    
+    font-size: 21px;
+}
+
+hr.teste{
+border: none;
+height: 25px;
+}
+
+.importante{
+    color:#F08F49 ;
+    text-align: center;
+    font-size: 22px;
+}
+
+.embora{
+    
+    font-size: 22px;
+    line-height: 132.9%;
+    text-align: center;
+
+}
+
+.retangulo{
+    border: 2px solid #F08F49; 
+  padding: 40px 20px 40px 20px;
+}
+
+.preto{
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#rodape {
+    flex-shrink: none;
+    background-color: #2D2D2D;
+    height: 140px;
+  }
+
+  .rodape-conteudo{
+      color: white;
+     padding-top: 25px;
+     font-size: 18px;
+  }
+
+  .imagem-rodape{
+      padding-right: 20px;
+  }
+
+.espaco2{
+    height: 40px;
+    border: none;
+}
+.titulo-inferior{
+    text-align: center;
+}
+
+.texto-inferior{
+    padding-top: 40px;
+    text-align: center;
+}
+
+.texto-coluna{
+    text-align: center;
+}
+.espaco-inferior{
+    border: none;
+    height: 5px;
+}
+
+
+
+.col-12{
+    display:flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.scroll{
+padding-left: 100px;
+
+}
+
+@media only screen and (max-width:987px){
+    
+
+    .esquerda{
+        width: 180px;
+    
+    }
+    .direita{
+        width: 180px;
+       
+    }
+}

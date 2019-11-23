@@ -1,0 +1,30 @@
+hr.teste{
+border: none;
+height: 25px;
+ }
+
+
+.container {
+ position: relative;
+text-align: center;
+        
+ }
+
+ h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 28px;
+font-weight: bold;
+
+}
+
+      
+ p{
+font-family: 'Montserrat', sans-serif;
+font-size: 14px;
+font-display: medium;
+  }
+
+
+.orangetext{
+  color: #F08F49;
+}
